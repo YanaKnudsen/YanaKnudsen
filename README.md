@@ -1,4 +1,4 @@
-# 🧚🏻‍♀️ Yana Knudsen
+#  Yana Knudsen
 **`Full-stack developer`**
 
 ### Stats 
